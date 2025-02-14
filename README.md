@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Full Stack projects<br>SpringBoot projects<br>CCNA , Networking and Devops
+I'm a Java Full Stack Developer<br>Looking for Contribution in SpringBoot projects<br>Actively learning CCNA , Networking and Devops
 
 
 ## 🌐 Socials:
